@@ -12,10 +12,7 @@ data_files= ["T4_C3all_data.csv"]
 
 route_File = ""
 
-
-
-
-
+teyey ="/Users/runetonnessen/Documents/Documents – Runes MacBook Air/Masterfinal/Master_Thesis/T4_C3all_data.csv"
 
 
 def load_data_sub():
